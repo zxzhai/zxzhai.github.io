@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](http://zxzhai.github.io/files/CVZXZhai.pdf)
+You can download my CV [here](http://zxzhai.github.io/files/CVZXZhai_2.pdf)
