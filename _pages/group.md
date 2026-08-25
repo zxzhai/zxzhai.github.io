@@ -5,6 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
+I feel very lucky to work with many smart, productive and cool people in different institutes in my career. At SJTU, I have built my own research group made of excellent students. We welcome new and young people interested in astronomy and astrophysics to join us.
 
 **Graduates**
 
