@@ -18,7 +18,7 @@ author_profile: true
     PhD Candidate
     <br>
     Research: 
-    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Xuejie%20Li%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc" target="_blank">Our Paper</a>
+    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Xuejie%20Li%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc" target="_blank">Our Papers</a>
   </div>
   <br><br> 
 
@@ -30,7 +30,7 @@ author_profile: true
     PhD Candidate
     <br>
     Research: 
-    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Wenhao%20Gao%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc" target="_blank">Our Paper</a>
+    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Wenhao%20Gao%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc" target="_blank">Our Papers</a>
   </div>
   <br><br> 
   
@@ -42,7 +42,7 @@ author_profile: true
     PhD Candidate
     <br>
     Research:
-    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Zilan%20Xiao%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">Our Paper</a>
+    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Zhongxu%20Zhai%22%20%20author%3A%22Zilan%20Xiao%22%20%20year%3A(2022-)&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">Our Papers</a>
   </div>
   <br><br> 
 
