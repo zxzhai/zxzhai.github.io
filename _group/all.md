@@ -1,4 +1,4 @@
-Graduates
+**Graduates**
 
 Xuejie Li (2022-, co-supervised with Prof. Xiaohu Yang)
 
@@ -15,7 +15,8 @@ Zehong Qiu (2024-)
 Yuyang Li (2025-, co-supervised with Pro. Zheng Zheng (Utah))
 
 
-Current and former undergraduates
+
+**Current and former undergraduates**
 
 Yechun Yong (2023-)
 
