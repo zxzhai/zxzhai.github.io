@@ -83,7 +83,7 @@ I feel very lucky to work with many smart, productive and cool people in differe
   <div style="text-align: center; margin-bottom: 40px; width: 150px;">
     <img src="/images/student_YuyangLi.jpg" alt="Yuyang Li" style="width: 120px; height: 150px; border-radius: 50%; object-fit: cover;">
     <br>
-    <strong>Yuyang Li (2025-, co-supervised with Pro. Zheng Zheng at Utah)</strong>
+    <strong>Yuyang Li (2025-, co-supervised with Prof. Zheng Zheng at Utah)</strong>
     <br>
     PhD student
     <br>
