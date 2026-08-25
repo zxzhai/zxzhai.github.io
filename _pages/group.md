@@ -84,7 +84,7 @@ author_profile: true
     <br>
     <strong>Yuyang Li (2025-, co-supervised with Pro. Zheng Zheng at Utah)</strong>
     <br>
-    PhD Candidate
+    PhD student
     <br>
     Our paper: 
   </div>
