@@ -20,7 +20,7 @@ Haicong Xu (2024-)
 
 Zehong Qiu (2024-)
 
-Yuyang Li (2025-, co-supervised with Pro. Zheng Zheng (Utah))
+Yuyang Li (2025-, co-supervised with Pro. Zheng Zheng at Utah)
 
 
 
