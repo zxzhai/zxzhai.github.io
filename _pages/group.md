@@ -53,7 +53,7 @@ author_profile: true
     <br>
     PhD Candidate
     <br>
-    Our paper: 
+    Research:
   </div>
   <br><br> 
 
@@ -64,7 +64,7 @@ author_profile: true
     <br>
     PhD Candidate
     <br>
-    Our paper: 
+    Research:
   </div>
   <br><br> 
 
@@ -75,7 +75,7 @@ author_profile: true
     <br>
     PhD Candidate
     <br>
-    Our paper: 
+    Research:
   </div>
   <br><br> 
 
@@ -86,7 +86,7 @@ author_profile: true
     <br>
     PhD student
     <br>
-    Our paper: 
+    Research:
   </div>
   <br><br> 
   
