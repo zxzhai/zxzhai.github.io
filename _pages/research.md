@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research focuses on understanding the formation and evolution of cosmic structure and extracting robust cosmological information from observations. I work at the intersection of galaxy clustering, galaxy formation, and cosmological inference, combining observational data, numerical simulations, and statistical modeling to connect the nonlinear distribution of galaxies to the fundamental physics of the Universe.
 
 ## Galaxy Clustering and the Galaxy–Halo Connection
